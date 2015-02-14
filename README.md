@@ -1,4 +1,4 @@
-# SpendItSaveit_codes
+# Spend it? Or Save it?
 
 You probably know your house mortgage, car loan, and your insureance payment amount.
 They are big bills, right?   
